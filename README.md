@@ -11,7 +11,7 @@ Predict ecosystem variables:
 - Impact of Nitrates on vegetation abundance
 
 ##Video
-https://youtu.be/g5twUNaN_d0
+https://youtu.be/QKPwhgUXWJ8
 
 ## Key Aspects
 There are some key aspect to consider in the effectiveness of neural networks. Some of there are:
