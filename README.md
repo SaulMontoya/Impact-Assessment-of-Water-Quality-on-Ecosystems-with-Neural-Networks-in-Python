@@ -23,7 +23,3 @@ While considering these aspects, you can enjoy this awesome tool for your everyd
 
 For any application of neural networks on a specific field please writo to: 
 saulmontoya@gidahatari.com
-
-
-##Video
-https://youtu.be/g5twUNaN_d0
